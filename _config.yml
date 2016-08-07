@@ -1,0 +1,14 @@
+name: VIDACAFRE
+layout_spectrum: 0.02122106026787518
+typography_spectrum: 0.8210153755409091
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.059335644542166666
+  lightness: 0.9186779401378582
+  saturation: 0.3676828203135696
+  rhythmicContrast: 0.06244351734142328
